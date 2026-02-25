@@ -242,7 +242,7 @@ In vivo data (256 × 256 × 128 voxels, ~8.4 million voxels) acquired using a 10
 
 ## Data Availability
 
-The data supporting the findings of this study are provided within the Article and its Supplementary Information.
+The data supporting the findings of this study are provided within the article.
 
 **Simulated vascular data**: The raw data for the simulated vessel experiments have been archived and are available in this repository at `data/` (including planar and hemispherical array configurations with 64, 256, and 1024 detectors).
 
